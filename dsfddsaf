@@ -186,11 +186,11 @@ Darkness = Instance.new("TextButton")
 
 -- Properties
 
-OPFinality.Name = "blue.cc troll"
+OPFinality.Name = "OPFinality"
 OPFinality.Parent = game.CoreGui
 
 MainFrame.Name = "MainFrame"
-MainFrame.Parent = blue.cc
+MainFrame.Parent = OPFinality
 MainFrame.Active = true
 MainFrame.BackgroundColor3 = Color3.new(1, 1, 1)
 MainFrame.BackgroundTransparency = 1
@@ -237,7 +237,7 @@ Title.Position = UDim2.new(0.341463417, 0, 0, 0)
 Title.Size = UDim2.new(0.292682916, 0, 1.00166667, 0)
 Title.Font = Enum.Font.SourceSansLight
 Title.FontSize = Enum.FontSize.Size32
-Title.Text = "blue.cc"
+Title.Text = "OPFinality"
 Title.TextColor3 = Color3.new(0.933333, 0.933333, 0.933333)
 Title.TextSize = 30
 Title.ZIndex = 6
